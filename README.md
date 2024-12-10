@@ -2,7 +2,7 @@
 
 The purpose of this mini project is to create a test database for the EVAT project
 
-The database is hosted on mongodb+srv://saadikram:<Pp5kz2JTvJByRLzt>@ev.5gxjg.mongodb.net/?retryWrites=true&w=majority&appName=EV 
+The database is hosted on mongodb+srv://saadikram:Pp5kz2JTvJByRLzt@ev.5gxjg.mongodb.net/?retryWrites=true&w=majority&appName=EV 
 
 and contains the following tables:
 
